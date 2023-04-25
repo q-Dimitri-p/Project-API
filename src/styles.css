@@ -83,7 +83,7 @@ color: white;
         min-height: 250px;
     }
 }
-@media (max-width: 562px){
+@media (max-width: 565px){
     .title{
         font-size: 60px;
     }
