@@ -83,3 +83,15 @@ color: white;
         min-height: 250px;
     }
 }
+@media (max-width: 562px){
+    .title{
+        font-size: 60px;
+    }
+    main h2{
+        font-size: 28px;
+    }
+    main{
+        width: 80%;
+        min-height: 250px;
+    }
+}
