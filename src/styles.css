@@ -83,17 +83,4 @@ color: white;
         min-height: 250px;
     }
 }
-@media (max-width: 565px){
-    .title{
-        font-size: 60px;
-        text-align: center;
-    }
-    main h2{
-        font-size: 28px;
-        text-align: center;
-    }
-    main{
-        width: 80%;
-        min-height: 250px;
-    }
-}
+
