@@ -74,6 +74,7 @@ color: white;
 @media (max-width: 790px){
     .title{
         font-size: 60px;
+        text-align: center;
     }
     main h2{
         font-size: 28px;
