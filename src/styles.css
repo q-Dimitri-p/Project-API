@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: linear-gradient(blue, white, orange);
+    background: linear-gradient(120deg, rgb(255, 0, 255), orange, blue);
 }
 .title{
     font-size: 85px;
